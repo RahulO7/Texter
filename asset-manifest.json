@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texter/static/css/main.f199f305.css",
+    "main.js": "/Texter/static/js/main.28194b2e.js",
+    "static/js/787.d9aaa131.chunk.js": "/Texter/static/js/787.d9aaa131.chunk.js",
+    "index.html": "/Texter/index.html",
+    "main.f199f305.css.map": "/Texter/static/css/main.f199f305.css.map",
+    "main.28194b2e.js.map": "/Texter/static/js/main.28194b2e.js.map",
+    "787.d9aaa131.chunk.js.map": "/Texter/static/js/787.d9aaa131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f199f305.css",
+    "static/js/main.28194b2e.js"
+  ]
+}
